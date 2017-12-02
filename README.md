@@ -1,4 +1,4 @@
-# Ansible Swarm Playbook
+## Ansible Swarm Playbook
 
 Playbook for creating/managing a Docker Swarm cluster (requires Docker >= 1.12).
 
